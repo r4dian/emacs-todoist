@@ -43,9 +43,7 @@ these menus will respectively allow you to:
   If true, show all tasks un-collpased. Default is nil for default view.
   
 - `todoist-use-scheduled-instead-of-deadline`
-  If true, use SCHEDULED instead of DEADLINE for tasks in org-mode buffers and files
-
-  :group 'todoist
+  If true, use SCHEDULED instead of DEADLINE for tasks in org-mode buffers and files.
 
 ## Disclaimer
 This extension is not created by, affiliated with, or supported by Doist.
